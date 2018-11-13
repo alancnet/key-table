@@ -4,7 +4,7 @@ In-memory key-value store that optimizes for auto-complete against keys.
 
 ## Usage
 
-```
+```javascript
 const KeyTable = require('key-table')
 
 const table = new KeyTable()
